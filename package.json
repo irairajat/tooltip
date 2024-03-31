@@ -37,5 +37,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "http://irairajat.github.io/tooltip"
+  "homepage": "http://irairajat.github.io/tooltip",
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
 }
